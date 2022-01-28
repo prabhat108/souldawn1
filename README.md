@@ -7,5 +7,5 @@ skills-HTML
        |CSS
        |BOOTSTRAP
        |JAVASCRIPT
-       PYTHON
+       |PYTHON
  
