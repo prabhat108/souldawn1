@@ -4,8 +4,8 @@
 🔭 I’m a web developer
 📫 How to reach me:  part118300@gmail.com
 skills-HTML
-       CSS
-       BOOTSTRAP
-       JAVASCRIPT
+       |CSS
+       |BOOTSTRAP
+       |JAVASCRIPT
        PYTHON
  
